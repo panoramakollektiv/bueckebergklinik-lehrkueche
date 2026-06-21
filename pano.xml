@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" apprev="20995" hassounds="0" appversion="7.1.9">
+  <input height="2752" leveltilesize="510" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" width="2752" levelbias="0.400" levelingroll="0">
+    <level width="2752" preload="0" height="2752" predecode="0"/>
+    <level width="1376" preload="0" height="1376" predecode="0"/>
+    <level width="688" preload="0" height="688" predecode="0"/>
+    <level width="344" preload="1" height="344" predecode="1"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="2" pannorth="99.5">
+    <start fov="100" tilt="0" pan="0" projection="4"/>
+    <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+    <min fovpixel="2" tilt="-80" pan="0"/>
+    <max fovfisheye="360" fov="140" scaletofit="1" fovstereographic="330" tilt="90" pan="360"/>
+  </view>
+  <userdata tags="panos" comment="" latitude="52.238644" title="" source="" longitude="9.105117" heading="99.5" copyright="" customnodeid="" author="" nodeid="node1" info="" altitude="84.56" description="" datetime="28.05.26 14:31"/>
+  <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+    <label border="1" bordercolor="0x000000" textcolor="0x000000" enabled="1" borderalpha="1" height="20" textalpha="1" backgroundalpha="1" width="180" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" background="1"/>
+    <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" mode="0"/>
+    <hotspot target="" skinid="ht_info" id="Point01" title="" tilt="-1.86" pan="-233.46" description="In unserer Lehrküche zaubern Sie selbst unter Anleitung der Ernährungsfachkraft - in Gemeinschaft mit anderen Patienten - gesunde und leckere Gerichte, die im Anschluss in netter Runde verkostet werden. Hierbei ist Spaß garantiert!" url=""/>
+    <hotspot target="" skinid="ht_info" id="Point02" title="" tilt="-0.29" pan="-65.81" description="Folgende Lehrküchenveranstaltungen werden angeboten:&#xa;&#xa;cholesterinarmes Kochen&#xa;vegetarisches Kochen&#xa;fettarmes Kochen" url=""/>
+  </hotspots>
+  <media/>
+  <transition enabled="1" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" delay="none" softedge="0" blendtime="1" zoomoutpause="1" zoomin="0" zoomspeed="2" zoomfov="40" zoomout="0" blendcolor="0x000000"/>
+  <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+  <control invertcontrol="1" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" sensitivity="8" rubberband="0" zoomcentercursor="1" simulatemass="1" invertwheel="0" contextvr="1" lockedmouse="0" contextprojections="0" lockedkeyboard="0" dblclickfullscreen="0" lockedwheel="0" contextfullscreen="1"/>
+  <projectuserdata tags="" comment="" title="" author="" description="" copyright=""/>
+</panorama>
